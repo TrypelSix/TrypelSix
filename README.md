@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrypelSix
 - 👀 I’m interested in ... networking/cybersecurity/radiocomunication/techstuff/gamedev/  
-- 🌱 I’m currently learning ... Python ;)
-- 💞️ I’m looking to collaborate on ... starelite tracker project (trying to make one, on ardurino uno)
+- 🌱 I’m currently learning ... git
+- 💞️ I’m looking to collaborate on ... sattrack project. "developing" software to drive my antena rotator motors, and track satelites. 
 - 📫 How to reach me ... mgs me here ? 
 - ⚡ Fun fact: ... T-666
 
